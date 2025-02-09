@@ -1,0 +1,6 @@
+@Carsties.SearchService_HostAddress = http://localhost:5228
+
+GET {{Carsties.SearchService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
